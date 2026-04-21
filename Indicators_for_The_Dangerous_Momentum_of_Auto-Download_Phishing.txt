@@ -1,0 +1,57 @@
+SENDER EMAIL ADDRESSES:
+
+anaraqueltaboleiros@gmail[.]com
+cae@campomagro.pr[.]gov[.]br
+escritorio@equipevora[.]com
+financeiro@clinicasantaclarapb[.]com[.]br
+geral@santamarinha-gaia[.]pt
+geral@santamarinha-gaia[.]pt
+josevarela1963@gmail[.]com
+martasrmartins@gmail[.]com
+martasrmartins@gmail[.]com
+tiago.a.batista1984@gmail[.]com
+transportesvalente@gmail[.]com
+
+EMAIL SENDER IP ADDRESS:
+
+181.77.102[.]144
+
+URLS:
+
+hxxps[:]//www.dropbox[.]com/scl/fi/14c3k2402eppz2vuzzfu9/Or-amento.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/52y14d4gwejdxohxcvbdx/Ficheiro-Cot.-14556F-Actualizado-Novembro-2025.zip.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/59gmhgqc8ywowybghy5h2/Ficheiro-Alcodiseno-Hogar-F1475.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/716bo419rtht7z93ejg3r/Comprovativo-392-35.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/9xxqq226k598bzyx8izs7/Orcamentopdf.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/b0y0v0jq8q2lyeg62bkft/Or-amento.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/b4ogvw1iy2xs0mn2l2yzs/Orcamentopdf.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/cbpkdpghlj7wfln1wykbq/Orcamentopdf.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/gcc3ive8toa8w356yc241/Documentos-Pessoais-Assinados.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/hyuiivtof4xih1y6lg11d/Ficheiro-Cota-o-PAULO-M.M.-ANDRE-CONSTRU-ES.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/kbaq2e3fz38pp81mm9kf6/Or-amento.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/ksojzjdaomoophsqm2z5q/Or-amento.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/l7nw64rpuc4loen1ke5qh/Ver-Documento-1.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/lmtpu0vv6fyf9ruephwbi/Comprovativo-592-35.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/mawuvjchjp0qel9krxj27/SimulacaoOrcamentopdf.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/mduduj15ydyple2ids660/notafiscal
+hxxps[:]//www.dropbox[.]com/scl/fi/noo0rc20ibne4cky0k2u1/Ficheiro-Cota-o-mileumacores-FC1545811-R.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/nwfoqxnmhsgu3d5ujvhm6/FolhaOr-amentoPDF.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/q8kkfum4rm5gfi560pbbh/FicheiroOrcamentopdf.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/qp707dpjkx5apcklkiond/Ficheiro-Cota-o-Alterado-Cota-o-148-Dez.zip.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/ra2f49sb14s5jx56zzc1t/Or-amento.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/tbkeb570d66t5h4mmraxt/Nota-Fiscal.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/tgfkpqlorbywcopu0cv3n/Or-amento-22-10-2025.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/usyi4e5wgs9vf0y656j88/Resolve-Comprovativo-392-35-.pdf.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/vmbff8a0x5jlo2r7kxqps/Or-amento.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/vmqcsliv92h7oqp1jv78l/PedidoDeOr-amento.exe
+hxxps[:]//www.dropbox[.]com/scl/fi/ysrdg6pb6zlsp94uftilo/Or-amento.EXE
+hxxps[:]//www.dropbox[.]com/scl/fi/ytdiwc0g24ifldbx6k7ed/Comprovativo_0221.exe
+
+SHA256 HASHES:
+
+(Read: SHA256 hash - File name)
+
+08caf67a3dc4036552d26b87773b63620b2fc12455c8477f130fae58ea77d0e4 - Orcamentopdf.exe
+69a2bd6374deb11fafc0dc2ffe162d2302f923d5a1af3d05fb4c9ba3e7f6e17b - Fechamento Documentações DOC-P12025-2025.zip (1).EXE
+79e771ac71258a3e9f276520838101774f33d0e1864a783eb0b3a074bc9e43d4 - NOTA_FISCAL_2025_PDF.EXE
+c98816fb63abe7d5b05c4d6b8b7e128e91440bb029db9f883acb656b3cfc6476 - Orçamento.EXE
